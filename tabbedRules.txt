@@ -1,0 +1,33 @@
+hello	Hi there.	Please state your problem.	
+name	Great, good to know that.	I am not interested in names.	
+sorry	Please don't apologize.	Apologies are not necessary.	What feelings do you have when you apologize?	
+I remember	Do you often think of %Y?	Does thinking of %Y bring anything else to mind?	What else do you remember?	Why do you recall %Y right now?	
+if	Do you really think it is likely that %Y?	Do you wish that %Y?	What do you think about %Y?	Really-- if %Y?	
+dream	Really-- %Y?	What does this dream suggest to you?	Do you dream often?	Have you dreamt %Y before?	%X dream about %Y?	How do you feel about %Y in reality?	
+my mother	Who else in your family %Y?	Tell me more about your family.	
+my father	Your father?	Does he influence you strongly?	What else comes to mind when you think of your father?	
+I want	What would it mean for you if you got %Y?	Why do you want %Y?	Suppose you got %Y soon.	
+I am glad	How have I helped you to be %Y?	What makes you happy just now?	Can you explain why you are suddenly %Y?	
+I am sad	I am sorry to hear you are depressed.	I am sure it's not pleasant to be sad.	
+are like	What resemblance do you see between %X and %Y?	
+is like	In what way is it that %X is like %Y?	What resemblance do you see?	Could there really be some connection?	
+alike	In what way?	What similarities are there?	
+same	What other connections do you see?	
+I was	Were you really?	Why do you tell me you were %Y now?	
+I am	In what way are you %Y?	Do you want to be %Y?	
+am I	Do you believe you are %Y?	Would you want to be %Y?	You wish I would tell you you are %Y.	What would it mean if you were %Y?	
+you are	What makes you think I am %Y?	
+because	Is that the real reason?	What other reasons might there be?	Does that reason seem to explain anything else?	
+were you	Perhaps I was %Y.	What do you think?	What if I had been %Y?	
+I can't	Maybe you could %Y now.	What if you could %Y?	
+I feel	Do you often feel %Y?	
+I felt	What other feelings do you have?	
+why don't you	Should you %Y yourself?	Do you believe I don't %Y?	Perhaps I will %Y in good time.	
+yes	You seem quite positive.	Are you sure?	I understand.	
+no	Why not?	You are being a bit negative.	Are you saying "NO" just to be negative?	
+someone	Can you be more specific?	
+everyone	Can you think of anyone in particular?	Who for example?	
+always	Can you think of a specific example?	What incident are you thinking of?	Really - always?	
+perhaps	You do not seem quite certain.	
+are	Did you think they might not be %Y?	Possibly they are %Y.	
+default	Very interesting.	I am not sure I understand you fully.	Please continue.	Do you feel strongly about discussing such things?	%X?	
